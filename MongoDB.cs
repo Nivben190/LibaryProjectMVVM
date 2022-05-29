@@ -17,7 +17,7 @@ namespace DimitryProject.LoginClasses
          static MongoClient dbClient;
         public static void CreateMongo()
         {
-           dbClient = new MongoClient("mongodb+srv://nivben20:Nivben20@cluster0.zleme.mongodb.net/test");
+           dbClient = new MongoClient("mongodb+srv://********@cluster0.zleme.mongodb.net/test");
         }
         public static IMongoCollection<Customer> GetMongoDBCustomerCollection()
         {

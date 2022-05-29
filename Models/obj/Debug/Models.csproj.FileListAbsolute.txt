@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\bin\Debug\Models.dll
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\bin\Debug\Models.pdb
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\obj\Debug\Models.dll
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\obj\Debug\Models.pdb
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\bin\Debug\MongoDB.Bson.dll
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\bin\Debug\MongoDB.Bson.xml
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\ObjectOriented\DimitryProject\Models\obj\Debug\Models.csproj.CopyComplete

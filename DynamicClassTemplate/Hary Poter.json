@@ -1,0 +1,29 @@
+{
+  "ListOfCategorys": [
+    "Drama",
+    "Fiction"
+  ],
+  "ClassName": "Hary Poter",
+  "ListOfProperties": [
+    {
+      "Name": "Item Name",
+      "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "IsNullable": false
+    },
+    {
+      "Name": "Item Price",
+      "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "IsNullable": false
+    },
+    {
+      "Name": "Item ISBN",
+      "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "IsNullable": false
+    },
+    {
+      "Name": "Item Amount",
+      "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "IsNullable": false
+    }
+  ]
+}

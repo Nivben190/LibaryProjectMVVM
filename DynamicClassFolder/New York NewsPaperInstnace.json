@@ -1,0 +1,46 @@
+{
+  "ListOfPropertyInstances": [
+    {
+      "PropertyTamplate": {
+        "Name": "Item Name",
+        "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": "New York NewsPaper"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Price",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": 20
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item ISBN",
+        "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": 123456789
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Amount",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": 40
+    }
+  ],
+  "RentedByCustomerRef": {
+    "Id": null,
+    "IsCustomerAccess": false,
+    "IdNumber": 0,
+    "Name": null,
+    "Credit": 500,
+    "BorrowedItemList": []
+  },
+  "Id": null,
+  "ClassName": "New York NewsPaper"
+}

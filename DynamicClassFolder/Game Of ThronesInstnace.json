@@ -1,0 +1,108 @@
+{
+  "ListOfPropertyInstances": [
+    {
+      "PropertyTamplate": {
+        "Name": "Item Name",
+        "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": "Game Of Thrones"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Price",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 80
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item ISBN",
+        "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 9999998
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Amount",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 10
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "IsForRent",
+        "Kind": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": "True"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "NumberOfPages",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": "320"
+    }
+  ],
+  "RentedByCustomerRef": {
+    "Id": "62768f2941ee657a32a59de8",
+    "IsCustomerAccess": false,
+    "IdNumber": 120,
+    "Name": "niv",
+    "Credit": 364,
+    "BorrowedItemList": [
+      {
+        "ListOfPropertyInstances": [
+          {
+            "PropertyTamplate": {
+              "Name": "Item Name",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "Hary Poter"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Price",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 56
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item ISBN",
+              "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 333333
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Amount",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 5
+          }
+        ],
+        "RentExipredDate": "2022-06-02T00:23:17.6160063+03:00",
+        "ListOfCategorys": [
+          "Drama",
+          "Fiction"
+        ],
+        "Id": null,
+        "ClassName": "Hary Poter"
+      }
+    ]
+  },
+  "RentExipredDate": "2022-06-02T00:23:17.7747004+03:00",
+  "ListOfCategorys": [],
+  "Id": null,
+  "ClassName": "Game Of Thrones"
+}

@@ -1,0 +1,44 @@
+{
+  "ListOfPropertyInstances": [
+    {
+      "PropertyTamplate": {
+        "Name": "Item Name",
+        "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": "Hary Poter"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Price",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 56
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item ISBN",
+        "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 333333
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Amount",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 122
+    }
+  ],
+  "RentedByCustomerRef": null,
+  "RentExipredDate": "2022-06-03T19:15:34.9498514+03:00",
+  "ListOfCategorys": [
+    "Drama",
+    "Fiction"
+  ],
+  "Id": null,
+  "ClassName": "Hary Poter"
+}

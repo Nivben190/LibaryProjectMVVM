@@ -1,0 +1,72 @@
+{
+  "ListOfPropertyInstances": [
+    {
+      "PropertyTamplate": {
+        "Name": "Item Name",
+        "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": "Gibson LS"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Price",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": 700
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item ISBN",
+        "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": 111111
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Amount",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": 10
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "IsForRent",
+        "Kind": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": "False"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "NumberOfString",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": "6"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Body Shape",
+        "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "value": "Rounded"
+    }
+  ],
+  "RentedByCustomerRef": {
+    "Id": null,
+    "IsCustomerAccess": false,
+    "IdNumber": 0,
+    "Name": null,
+    "Credit": 500,
+    "BorrowedItemList": []
+  },
+  "RentExipredDate": "0001-01-01T00:00:00",
+  "ListOfCategorys": [],
+  "Id": null,
+  "ClassName": "Gibson LS"
+}

@@ -1,0 +1,298 @@
+{
+  "ListOfPropertyInstances": [
+    {
+      "PropertyTamplate": {
+        "Name": "Item Name",
+        "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": "Nirit NewsPaper"
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Price",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 20
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item ISBN",
+        "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 1234567890
+    },
+    {
+      "PropertyTamplate": {
+        "Name": "Item Amount",
+        "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "IsNullable": false
+      },
+      "Value": 29
+    }
+  ],
+  "RentedByCustomerRef": {
+    "Id": "62768f2941ee657a32a59de8",
+    "IsCustomerAccess": false,
+    "IdNumber": 120,
+    "Name": "niv",
+    "Credit": 60,
+    "BorrowedItemList": [
+      {
+        "ListOfPropertyInstances": [
+          {
+            "PropertyTamplate": {
+              "Name": "Item Name",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "Game Of Thrones"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Price",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 80
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item ISBN",
+              "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 9999998
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Amount",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 11
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "IsForRent",
+              "Kind": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "True"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "NumberOfPages",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "320"
+          }
+        ],
+        "RentExipredDate": "2022-06-01T20:27:12.4527422+03:00",
+        "ListOfCategorys": [],
+        "Id": null,
+        "ClassName": "Game Of Thrones"
+      },
+      {
+        "ListOfPropertyInstances": [
+          {
+            "PropertyTamplate": {
+              "Name": "Item Name",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "Hary Poter"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Price",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 56
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item ISBN",
+              "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 333333
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Amount",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 6
+          }
+        ],
+        "RentExipredDate": "2022-06-01T20:27:12.5693552+03:00",
+        "ListOfCategorys": [
+          "Drama",
+          "Fiction"
+        ],
+        "Id": null,
+        "ClassName": "Hary Poter"
+      },
+      {
+        "ListOfPropertyInstances": [
+          {
+            "PropertyTamplate": {
+              "Name": "Item Name",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "NewsPaper niv"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Price",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 120
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item ISBN",
+              "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 999999
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Amount",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 9
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "CityOfPaper",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "Tel Aviv"
+          }
+        ],
+        "RentExipredDate": "2022-06-01T20:27:12.571364+03:00",
+        "ListOfCategorys": [
+          "Business"
+        ],
+        "Id": null,
+        "ClassName": "NewsPaper niv"
+      },
+      {
+        "ListOfPropertyInstances": [
+          {
+            "PropertyTamplate": {
+              "Name": "Item Name",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "hamlet"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Price",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 80
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item ISBN",
+              "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 99999999
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Amount",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 9
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Number Of Book",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "430"
+          }
+        ],
+        "RentExipredDate": "2022-06-01T20:27:12.5723479+03:00",
+        "ListOfCategorys": [
+          "Fiction"
+        ],
+        "Id": null,
+        "ClassName": "hamlet"
+      },
+      {
+        "ListOfPropertyInstances": [
+          {
+            "PropertyTamplate": {
+              "Name": "Item Name",
+              "Kind": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "nivbook"
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Price",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 84
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item ISBN",
+              "Kind": "System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 999999
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Item Amount",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": 9
+          },
+          {
+            "PropertyTamplate": {
+              "Name": "Number Of Pages",
+              "Kind": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+              "IsNullable": false
+            },
+            "Value": "420"
+          }
+        ],
+        "RentExipredDate": "2022-06-01T20:27:12.5744208+03:00",
+        "ListOfCategorys": [
+          "Drama"
+        ],
+        "Id": null,
+        "ClassName": "nivbook"
+      }
+    ]
+  },
+  "RentExipredDate": "2022-06-01T20:27:12.5773529+03:00",
+  "ListOfCategorys": [],
+  "Id": null,
+  "ClassName": "Nirit NewsPaper"
+}
